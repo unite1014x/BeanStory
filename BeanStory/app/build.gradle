@@ -52,6 +52,9 @@ dependencies {
     //volley 라이브러리
     implementation 'com.android.volley:volley:1.2.1'
 
+    //ted permission
+    implementation 'io.github.ParkSangGwon:tedpermission-normal:3.3.0'
+
 }
 
 
